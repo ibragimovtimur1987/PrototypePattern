@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using PrototypePattern;
+﻿using PrototypePattern;
 
 Console.WriteLine("=== Демонстрация клонирования объектов ===\n");
 
